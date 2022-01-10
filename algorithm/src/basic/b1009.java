@@ -37,7 +37,7 @@ public class b1009 {
 			}	
 		}
 		for(int h = 0; h<T; h++) {
-			System.out.println(sAnswer[h] );
+			System.out.println(sAnswer[h] );ll
 		}
 		
 	}
